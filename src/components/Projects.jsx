@@ -1,4 +1,3 @@
-// components/Projects.js
 import React from 'react';
 
 function Projects() {
@@ -10,7 +9,7 @@ function Projects() {
       date: '23 November - 7 December, 2024',
       technologies: ['React', 'Redux', 'TailwindCSS', 'Axios', 'JSON-Server'],
       githubLink: 'https://github.com/ALKorzh/redux',
-      gif: '/assets/redux.gif', // Replace with actual GIF URL
+      gif: '/assets/redux.gif',
     },
     {
       name: 'Lamoda',
@@ -19,7 +18,7 @@ function Projects() {
       date: '28 October - 9 November, 2024',
       technologies: ['React', 'CSS'],
       githubLink: 'https://github.com/ALKorzh/lamoda',
-      gif: '/assets/lamoda.gif', // Replace with actual GIF URL
+      gif: '/assets/lamoda.gif',
     },
     {
       name: 'Api & Spa',
@@ -28,7 +27,7 @@ function Projects() {
       date: '14 October - 27 October, 2024',
       technologies: ['React', 'TailwindCSS', 'React-router-dom'],
       githubLink: 'https://github.com/ALKorzh/spa-routing-react',
-      gif: 'assets/spa-routing.gif', // Replace with actual GIF URL
+      gif: 'assets/spa-routing.gif',
     },
     {
       name: 'TodoIst',
@@ -37,7 +36,7 @@ function Projects() {
       date: '3 October - 13 October, 2024',
       technologies: ['React', 'CSS'],
       githubLink: 'https://github.com/ALKorzh/todoist',
-      gif: '/assets/todoist.gif', // Replace with actual GIF URL
+      gif: '/assets/todoist.gif',
     },
   ];
 
